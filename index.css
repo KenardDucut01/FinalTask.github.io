@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(110, 47, 2);
+}
+.btn1{
+    font-size: 60px;
+    padding: 25px 40px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 200px;
+    background: rgb(252, 144, 3);
+    border-color: rgb(246, 45, 0);
+    border-width: 5px;
+}
+.btn2{
+    font-size: 60px;
+    padding: 25px 40px;
+    background: rgb(252, 144, 3);
+    border-color: rgb(246, 45, 0);
+    border-width: 5px;
+}
+.btn3{
+    font-size: 60px;
+    padding: 25px 40px;
+    margin-right: 150px;
+    background: rgb(2252, 144, 3);
+    border-color: rgb(246, 45, 0);
+    border-width: 5px;
+}
+.btn4{
+    font-size: 50px;
+    padding: 25px 40px;
+    background: rgb(252, 144, 3);
+    border-color: rgb(246, 45, 0);
+    border-width: 5px;
+}
+
+a{
+    text-decoration: none;
+    cursor:pointer;
+}
+h1{
+    color: chocolate;
+    font-size: 50px;
+}
